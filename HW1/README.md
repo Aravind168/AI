@@ -1,0 +1,1 @@
+Solving 3 dimensional Travelling Salesman Problem with Genetic Algorithms. Implemented two-point crossover and mutation. Added only the best child back into mating pool as a result of crossover. Experimented with different strategies(top 5, worst 5) for mating pool selection and found best results in roulette wheel selection of mating individuals. 
