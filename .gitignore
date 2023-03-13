@@ -1,4 +1,4 @@
-/venv
-/.vscode
-/scripts
-/startercode.0
+venv/
+.vscode/
+scripts/
+startercode.0/

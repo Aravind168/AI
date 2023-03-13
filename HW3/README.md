@@ -1,0 +1,1 @@
+Built a neural network from scratch that can classify datasets of shapes such as Gaussian, XOR, circular and spiral. Implemented mini-batch SGD with cross-entropy loss.
